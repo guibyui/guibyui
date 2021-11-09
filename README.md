@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hello, there 👋 
 My name is Gui Nascimento and I'm a Software Engineer at Olive & Cocoa, Located in Salt Lake City, UT.
 
 
