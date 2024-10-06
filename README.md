@@ -1,4 +1,4 @@
-### Hello, there 👋 <img src="https://cdn3.emoji.gg/emojis/6991_blue_lightsaber.png" width="64px" height="64px" alt="blue_lightsaber"> 
+### Hello, there 👋 <img src="https://cdn3.emoji.gg/emojis/6991_blue_lightsaber.png" width="32px" height="32px" alt="blue_lightsaber"> 
 My name is Gui Nascimento and I'm a Software Engineer at Olive & Cocoa, Located in Salt Lake City, UT.
 
 
